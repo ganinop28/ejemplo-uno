@@ -2,3 +2,6 @@ Esta es una historia
 habia una vez
 
 trus
+
+En realidad es la historia de Germain
+Germain tiene 21 años y esta aprendiendo Git
