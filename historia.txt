@@ -5,3 +5,7 @@ trus
 
 En realidad es la historia de Germain
 Germain tiene 21 años y esta aprendiendo Git
+
+Estamos haciendo cambios para probar git
+
+A german le gustan las tostadas
